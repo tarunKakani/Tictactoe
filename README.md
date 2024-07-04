@@ -1,2 +1,2 @@
 # Tictactoe
-Please play my game! I am a very beginner developer!!
+Please play my game! Its the beginning of my journey!
